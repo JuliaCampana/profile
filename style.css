@@ -20,6 +20,7 @@ h1, h2, h3 {
 }
 */
 
+
 .container {
   width: 800px auto;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
@@ -53,6 +54,12 @@ h1, h2, h3 {
   background-color: #AF7A6D;
   width: 78%;
   margin: 20px auto;
+}
+
+.click-me{
+  color-background : #AF7A6D;
+  border-radius: 2px;
+  height: 30px;
 }
 
 .card {
