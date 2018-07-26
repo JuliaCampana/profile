@@ -20,7 +20,6 @@ h1, h2, h3 {
 }
 */
 
-
 .container {
   width: 800px auto;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
@@ -62,38 +61,6 @@ h1, h2, h3 {
   height: 30px;
 }
 
-.card {
-  width: 800px;
-  height: auto;
-  margin: 20px auto;
-  background-color: white;
-}
-
-.card h2 {
-  font-size: 30px;
-  text-align: center;
-  padding-top: 30px;
-  margin-top: 15px;
-}
-
-.card p {
-
-}
-.card ul li {
- display: inline;
- padding:  30px;
- margin: 30px;
- color: #653239;
-}
-
-.card ul li i {
- color: #AF7A6D;
-}
-
-.img-card {
-padding: 0 65px;
-size: 40%;
-}
 
 ul {
   list-style: none;
@@ -135,4 +102,50 @@ footer {
     width: 300px;
   }
 }
+
+.card-table {
+  width: 800px;
+  height: auto;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.card-table img {
+  height: 50%;
+  padding: 20px;
+}
+
+
+/*.card {
+  width: 800px;
+  height: auto;
+  margin: 20px auto;
+  background-color: white;
+}
+
+.card h2 {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 30px;
+  margin-top: 15px;
+}
+
+.card p {
+
+}
+.card ul li {
+ display: inline;
+ padding:  30px;
+ margin: 30px;
+ color: #653239;
+}
+
+.card ul li i {
+ color: #AF7A6D;
+}
+
+.img-card {
+padding: 0 65px;
+size: 40%;
+}*/
 
