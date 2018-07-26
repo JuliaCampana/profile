@@ -68,6 +68,14 @@ margin-bottom: 50px;
   background-color: white;
 }
 
+.cardsocial {
+  width: 800px;
+  height: auto;
+  margin: 20px auto;
+  background-color: white;
+  padding: 30px;
+}
+
 .card h2 {
   font-size: 30px;
   text-align: center;
@@ -93,13 +101,13 @@ margin-bottom: 50px;
 }
 
 .img-card {
-padding: 0 65px;
+padding: 0 auto;
+height: 70%;
 }
 
 ul {
   list-style: none;
-  display: inline;
-  padding: 10px;
+  padding: 15px;
   font-size: 30px;
 }
 
