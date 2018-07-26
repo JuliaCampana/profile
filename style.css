@@ -77,11 +77,8 @@ h1, h2, h3 {
 }
 
 .card p {
-  text-align: center;
-  padding: 50px;
-  margin: 20px auto;
-}
 
+}
 .card ul li {
  display: inline;
  padding:  30px;
@@ -95,6 +92,7 @@ h1, h2, h3 {
 
 .img-card {
 padding: 0 65px;
+size: 40%;
 }
 
 ul {
